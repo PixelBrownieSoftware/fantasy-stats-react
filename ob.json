@@ -1,0 +1,32 @@
+[
+    {
+      "Name": "John",
+      "Race": "Human",
+      "Health": 15,
+      "Stamina": 15
+    },
+    {
+      "Name": "Orc",
+      "Race": "Beast",
+      "Health": 20,
+      "Stamina": 5
+    },
+    {
+      "Name": "Minotaur",
+      "Race": "Beast",
+      "Health": 25,
+      "Stamina": 7
+    },
+    {
+      "Name": "Birdy",
+      "Race": "Avian",
+      "Health": 10,
+      "Stamina": 30
+    },
+    {
+      "Name": "Thor",
+      "Race": "Diety",
+      "Health": 45,
+      "Stamina": 20
+    }
+  ]
